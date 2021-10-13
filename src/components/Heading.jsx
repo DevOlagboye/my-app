@@ -5,7 +5,7 @@ const Heading = () => {
     return (
         <div className="h2-text">
             <h2>Here is My Header</h2>
-            <img src={logo} alt="" className="img"/>
+            <img src={logo} alt="React Logo" className="img"/>
         </div>
     )
 }
