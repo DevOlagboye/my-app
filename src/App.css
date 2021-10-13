@@ -41,3 +41,9 @@
     color: #61dafb;
     text-align: center;
 }
+
+.h2-text {
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
