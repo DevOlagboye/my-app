@@ -1,4 +1,4 @@
-.App {
+/* .App {
     text-align: center;
 }
 
@@ -35,16 +35,19 @@
     to {
         transform: rotate(360deg);
     }
+} */
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .h1-text {
     color: #61dafb;
-    text-align: center;
 }
 
 .h2-text {
     color: red;
-    text-align: center;
     text-transform: uppercase;
 }
 
