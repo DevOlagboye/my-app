@@ -7,6 +7,7 @@ const Heading = () => {
             <h2>Here is My Header</h2>
             <img src={logo} alt="React Logo" className="img"/>
             <p>Just a few Details of The Project</p>
+            <p>Currently Writing Some JSX</p>
         </div>
     )
 }
