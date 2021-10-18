@@ -7,7 +7,7 @@ const Heading = () => {
             <h2 className="h2-text">Here is My Header</h2>
             <img src={logo} alt="React Logo" className="img"/>
             <p>Just a few Details of The Project</p>
-            <p>Currently Writing Some JSX, and Making Some Progress So Far, Loving it :)</p>
+            <p>Currently Writing Some JSX, and Making Some Progress So Far, Loving it</p>
         </div>
     )
 }
