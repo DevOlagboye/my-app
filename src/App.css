@@ -36,7 +36,8 @@
         transform: rotate(360deg);
     }
 } */
-.container{
+
+.container {
     display: flex;
     flex-direction: column;
     align-items: center;
