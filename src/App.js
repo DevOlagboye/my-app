@@ -1,11 +1,16 @@
-import './App.css';
+import "./App.css";
+import "antd/dist/antd.css";
+import { Layout } from "antd";
+import AppHeader from "./components/common/Header";
 
+const { Header } = Layout;
 function App() {
   return (
-    <div className="container">
-      <h1 className="h1-text">Running another React Project</h1>
-    </div>
-    
+      <Layout className="mainLayout">
+        <Header>
+          <AppHeader />
+        </Header>
+      </Layout>
   );
 }
 
